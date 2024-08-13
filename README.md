@@ -1,4 +1,4 @@
-First of all, you have to put the assets folder into the /reactNativeApp1
+First of all, you have to put the assets folder into the /reactNativeTestingApp1
 
 Install all the node_modules, build the android and ios folders   
 
